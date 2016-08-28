@@ -1,0 +1,7 @@
+F:\Things\Projects\ExchangeRateAnalyser\ExchangeRateAnalyser\bin\Debug\ExchangeRateAnalyser.exe.config
+F:\Things\Projects\ExchangeRateAnalyser\ExchangeRateAnalyser\obj\Debug\ExchangeRateAnalyser.Strings.resources
+F:\Things\Projects\ExchangeRateAnalyser\ExchangeRateAnalyser\obj\Debug\ExchangeRateAnalyser.csproj.GenerateResource.Cache
+F:\Things\Projects\ExchangeRateAnalyser\ExchangeRateAnalyser\bin\Debug\ExchangeRateAnalyser.exe
+F:\Things\Projects\ExchangeRateAnalyser\ExchangeRateAnalyser\bin\Debug\ExchangeRateAnalyser.pdb
+F:\Things\Projects\ExchangeRateAnalyser\ExchangeRateAnalyser\obj\Debug\ExchangeRateAnalyser.exe
+F:\Things\Projects\ExchangeRateAnalyser\ExchangeRateAnalyser\obj\Debug\ExchangeRateAnalyser.pdb
